@@ -28,3 +28,6 @@
 ## Files
 - federated_learning_acute_inflammation.ipynb: Jupyter notebook containing the code for federated learning. </br>
 - diagnosis_1.csv: Dataset containing patient information. </br>
+
+## Dataset 
+- https://archive.ics.uci.edu/dataset/184/acute+inflammations
