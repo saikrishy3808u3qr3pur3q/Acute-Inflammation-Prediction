@@ -34,3 +34,7 @@
 
 ## Acknowledgements
 - Special thanks to [Sathishkumar](https://github.com/SathishKumar5115) for their contributions and support.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
