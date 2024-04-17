@@ -31,3 +31,6 @@
 
 ## Dataset 
 - https://archive.ics.uci.edu/dataset/184/acute+inflammations
+
+## Acknowledgements
+- Special thanks to [Sathishkumar](https://github.com/SathishKumar5115) for their contributions and support.
