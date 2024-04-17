@@ -12,7 +12,7 @@
 ## Installation
 - Clone the repository: </br>
 
-- git clone https://github.com/your_username/your_repository.git </br>
+- git clone https://github.com/saikrishy3808u3qr3pur3q/Acute-Inflammation-Prediction </br>
 - cd your_repository </br>
 - Install the required packages: </br>
 
